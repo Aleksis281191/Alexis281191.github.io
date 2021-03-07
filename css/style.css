@@ -397,9 +397,6 @@ body{
     display: none;
 }
 
-
-
-
 .comfortable{
     background: #FFFFFF;
     padding-top: 70px;
@@ -895,9 +892,7 @@ body{
         display: block;
         height: 348px;        
         float: left;
-        text-transform: uppercase;
-
-        
+        text-transform: uppercase;        
     }
 
     .days{
@@ -908,8 +903,6 @@ body{
         float: right;
         text-transform: uppercase;       
     }    
-
-    
 
     .at_any_desk_heading{
         margin-bottom: 30px;
@@ -968,17 +961,14 @@ body{
     }
 
     .at_any_desk_text{
-        margin: 0 77px 0 77px;
-        
+        margin: 0 77px 0 77px;        
     }
 
     .multiple_devises{
         display: flex;
         flex-direction: column;
         justify-content: center;
-        align-items: center;
-        
-        
+        align-items: center;        
     }
 
     .multiple_devices_heading{
@@ -1054,19 +1044,13 @@ body{
         display: flex;
         flex-direction: column;
         justify-content: center;
-        align-items: center;
-        
+        align-items: center;        
     }
 
     .individual_settings_footer_icons{
-        width: 512px;
-        
+        width: 512px;        
     }
-
-    .individual_settings_footer_pic{
-        height: ;
-    }
-
+    
     .individual_settings_footer_text{
         font-size: 20px;
         line-height: 23px;
@@ -1081,11 +1065,7 @@ body{
         flex-wrap: wrap;
         width: 1280px;
         
-    }
-
-    .mouse_pic_first{
-        ;
-    }
+    }    
 
     .mouse_pic_first_img{
         order: 1
@@ -1111,8 +1091,6 @@ body{
         width: 640px;
         height: 557px;
         background: #FFFFFF;
-        
-
     }
 
     .comf_and_faster_text_first_header,
@@ -1120,15 +1098,13 @@ body{
         font-family: Roboto-Black;
         font-size: 36px;
         line-height: 42px;
-        margin-bottom: 28px;
-        
+        margin-bottom: 28px;        
     }
 
     .comf_and_faster_text_first_text,
     .comf_and_faster_text_second_text{
         font-size: 20px;
         line-height: 23px;
-
     }
 
     .footer{
